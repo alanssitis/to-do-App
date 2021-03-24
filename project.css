@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* TODO fill out more styles here... */
+.task {
+  margin: 10px 20px;
+}
+
+.button-add {
+  color: #990099;
+  border: 1px solid #990099;
+} 
+.button-add:hover {
+  color: #fff;
+  background-color: #990099;
+} 
+.button-add:active {
+  color: #990099;
+  background-color: #fff;
+}
+
+.button-finish {
+  color: #00cc00;
+  border: 1px solid #00cc00;
+} 
+.button-finish:hover {
+  color: #fff;
+  background-color: #00cc00;
+} 
+.button-finish:active {
+  color: #00cc00;
+  background-color: #fff;
+}
+
+.button-unfinish {
+  color: #ff9900;
+  border: 1px solid #ff9900;
+} 
+.button-unfinish:hover {
+  color: #fff;
+  background-color: #ff9900;
+} 
+.button-unfinish:active {
+  color: #ff9900;
+  background-color: #fff;
+}
+
+.button-edit {
+  color: #0066ff;
+  border: 1px solid #0066ff;
+} 
+.button-edit:hover {
+  color: #fff;
+  background-color: #0066ff;
+} 
+.button-edit:active {
+  color: #0066ff;
+  background-color: #fff;
+}
+
+.button-delete {
+  color: #ff3300;
+  border: 1px solid #ff3300;
+} 
+.button-delete:hover {
+  color: #fff;
+  background-color: #ff3300;
+} 
+.button-delete:active {
+  color: #ff3300;
+  background-color: #fff;
+}
